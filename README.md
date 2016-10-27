@@ -4,6 +4,6 @@
 
 RTFM @ avahi.service(5) - [Linux man page](https://linux.die.net/man/5/avahi.service)
 
-Hints:
-$ service avahi-daemon status
-$ avahi-browse -a
+Hints: 
+$ service avahi-daemon status 
+$ avahi-browse -a 
