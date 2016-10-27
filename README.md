@@ -1,2 +1,5 @@
 # avahi.services
-avahi.services
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+RTFM @ avahi.service(5) - [Linux man page](https://linux.die.net/man/5/avahi.service)
