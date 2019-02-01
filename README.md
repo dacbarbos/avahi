@@ -9,3 +9,5 @@ RTFM @ [avahi.service(5)](https://linux.die.net/man/5/avahi.service)
 Hints:  
 $ service avahi-daemon status  
 $ avahi-browse -a  
+$ sudo ufw allow mdns  
+$ firewall-cmd --zone=public --permanent --add-service=mdns  
